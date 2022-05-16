@@ -184,3 +184,10 @@ fabric.properties
 # idea folder, uncomment if you don't need it
 # .idea
 /data/
+/.idea/graded-lab.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/other.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
